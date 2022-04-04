@@ -1,5 +1,5 @@
-var number1 = 1;
-var number2 = "1";
+let number1 = 1;
+let number2 = "1";
 
 console.log(number1);
 console.log(number2);
